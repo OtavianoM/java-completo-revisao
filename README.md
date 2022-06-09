@@ -21,3 +21,15 @@ Estudar seção 4
 Estudar seção 5
 Estudar seção 6
 Estudar seção 7
+
+
+## To-Do
+
+- [x] Logger (Console, Json, ELK)
+- [x] RESTful Web Service (API for Job executing)
+- [ ] Docker
+- [x] Spring Cloud Data Flow
+- [ ] NoSQL (Redis)
+- [ ] PostgreSQL (Connect to Multiple Schemas)
+- [x] Micrometer
+- [x] Grafna
