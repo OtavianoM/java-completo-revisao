@@ -2,7 +2,7 @@
 
 ## To-Do Revisão Java
 
-- [ ] Termina a secão 8 - Andamento
+- [x] Termina a secão 8 - Andamento
 - [ ] Estudar seção 9
 - [ ] Estudar seção 10
 - [ ] Estudar seção 11
