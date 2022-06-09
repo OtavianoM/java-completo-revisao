@@ -2,18 +2,25 @@
 
 ## To-Do Revisão Java
 
-- [x] Termina a secão 8 - Andamento
+##
+-------- Outros estudos - Andamento
+##
+- [ ] Termina a secão 8 - Parado 
 - [ ] Estudar seção 9
 - [ ] Estudar seção 10
 - [ ] Estudar seção 11
 - [ ] Estudar seção 13
 - [ ] Estudar seção 14
 - [ ] Estudar seção 15
+##
 -------- Outros estudos
+##
 - [ ] Estudar seção 17
 - [ ] Estudar seção 18
 - [ ] Estudar seção 20
+##
 -------- Outros estudos
+##
 - [ ] Estudar seção 1
 - [ ] Estudar seção 2
 - [ ] Estudar seção 3
