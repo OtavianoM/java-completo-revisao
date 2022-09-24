@@ -30,7 +30,8 @@ public class Application {
             case 3 -> rectangle(sc);
             case 4 -> product(sc);
             case 5 -> triangle(sc);
-            default -> System.out.println("Invalide Option");
+            default ->
+                    System.out.println("Invalide Option");
         }
 
         sc.close();
@@ -52,7 +53,7 @@ public class Application {
             System.out.printf("MISSING %.2f POINTS%n", student.missingPoints());
         }
         else {
-            System.out.println("PASS");
+            System.out.println("PASSS");
         }
 
         return student;
