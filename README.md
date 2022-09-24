@@ -3,7 +3,7 @@
 ## To-Do Revisão Java
 
 ##
-==> Java e Programação Orientada a Objetos <==
+==> Java e Programação Orientada a Objetos [Parte 1] <==
 ##
 - [ ] Estudar seção 8 
 - [ ] Estudar seção 9
@@ -13,7 +13,7 @@
 - [ ] Estudar seção 14
 - [ ] Estudar seção 15
 ##
-==> Java e Programação Orientada a Objetos <==
+==> Java e Programação Orientada a Objetos [Parte 2] <==
 ##
 - [ ] Estudar seção 17
 - [ ] Estudar seção 18
