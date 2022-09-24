@@ -53,7 +53,7 @@ public class Application {
             System.out.printf("MISSING %.2f POINTS%n", student.missingPoints());
         }
         else {
-            System.out.println("PASSS");
+            System.out.println("PASS");
         }
 
         return student;
