@@ -3,7 +3,7 @@
 ## To-Do Revisão Java
 
 ##
--------- Outros estudos
+==> Java e Programação Orientada a Objetos <==
 ##
 - [ ] Estudar seção 8 
 - [ ] Estudar seção 9
@@ -13,13 +13,20 @@
 - [ ] Estudar seção 14
 - [ ] Estudar seção 15
 ##
--------- Outros estudos
+==> Java e Programação Orientada a Objetos <==
 ##
 - [ ] Estudar seção 17
 - [ ] Estudar seção 18
 - [ ] Estudar seção 20
+- [ ] Estudar seção 21
+- [ ] Estudar seção 22
+- [ ] Estudar seção 23 [Projeto]
+- [ ] Estudar seção 24 [Projeto]
+- [ ] Estudar seção 25 [Projeto]
+- [ ] Estudar seção 26 [Projeto]
+
 ##
--------- Outros estudos - Andamento
+==> Lógica de Programação Algoritmos <== 
 ##
 - [X] Estudar seção 1
 - [X] Estudar seção 2
