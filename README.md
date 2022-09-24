@@ -3,9 +3,9 @@
 ## To-Do Revisão Java
 
 ##
--------- Outros estudos - Andamento
+-------- Outros estudos
 ##
-- [ ] Termina a secão 8 - Parado 
+- [ ] Estudar seção 8 
 - [ ] Estudar seção 9
 - [ ] Estudar seção 10
 - [ ] Estudar seção 11
@@ -19,10 +19,10 @@
 - [ ] Estudar seção 18
 - [ ] Estudar seção 20
 ##
--------- Outros estudos
+-------- Outros estudos - Andamento
 ##
-- [ ] Estudar seção 1
-- [ ] Estudar seção 2
+- [X] Estudar seção 1
+- [X] Estudar seção 2
 - [ ] Estudar seção 3
 - [ ] Estudar seção 4
 - [ ] Estudar seção 5
