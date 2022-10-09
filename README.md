@@ -30,8 +30,8 @@
 ##
 - [X] Estudar seção 1
 - [X] Estudar seção 2
-- [ ] Estudar seção 3
-- [ ] Estudar seção 4
-- [ ] Estudar seção 5
+- [X] Estudar seção 3
+- [X] Estudar seção 4
+- [X] Estudar seção 5
 - [ ] Estudar seção 6
 - [ ] Estudar seção 7
